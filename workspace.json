@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "90ba96474dc128d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6926b2db35d779",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9600bfb8bd98c178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/02 - Obsidian/YouTube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd9770224c1e2bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78336e3e0f3f59c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8400458d9942e6d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "111bc8159087ca67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba0731c2bf1c07ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab2c9001bb06d408",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "b13aff5da12803ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "513da7abc15a1c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955cd9c881666b7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/02 - Obsidian/YouTube.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97b04732435a2555",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/02 - Obsidian/YouTube.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64d99ee1e6e92b5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba9dfc6908aedd5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/02 - Obsidian/YouTube.md"
+              }
+            }
+          },
+          {
+            "id": "8387f8c861276985",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3a36e1f2a9cb643",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcd1d8ad10428873",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Create new unique note": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9600bfb8bd98c178",
+  "lastOpenFiles": [
+    "daily/2024-05-09.md",
+    "daily",
+    "03 - Resources/05 - Journaling/YouTube.md",
+    "03 - Resources/02 - Obsidian/YouTube.md",
+    "03 - Resources/05 - Journaling",
+    "03 - Resources/02 - Obsidian/Articles.md",
+    "03 - Resources/02 - Obsidian/Untitled.md",
+    "03 - Resources/01 - Linux/Terminal Cheat Sheet.md",
+    "03 - Resources/02 - Obsidian/Untitled",
+    "03 - Resources/01 - Linux/FOSS Nvidia Drivers.md",
+    "02 - Areas/02 - Games/FFXIV/Trophies/Trophy List.md",
+    "02 - Areas/02 - Games/FFXIV/Trophies/A Realm Reborn Trophies.md",
+    "02 - Areas/02 - Games/FFXIV/Trophies/Heavensward Trophies.md",
+    "04 - Permanent/03 - Obsidian/Obsidian Configuration Backup.md",
+    "00 - Daily/2024-03-18.md",
+    "00 - Daily/2024-05-16.md",
+    "02 - Areas/02 - Games/FFXIV/Trophies",
+    "02 - Areas/02 - Games/FFXIV/Reset Timers.md",
+    "02 - Areas/02 - Games/FFXIV/Untitled.md",
+    "02 - Areas/03 - Cooking/Drinks/FFXIV Cocktail Recipes.md",
+    "02 - Areas/03 - Cooking/Etc/Lavender infused simple syrup.md",
+    "02 - Areas/03 - Cooking/Etc",
+    "02 - Areas/03 - Cooking/Food",
+    "99 - Assets/D476F20F-CAAF-4810-8AE6-C6D63312D1F4_1_105_c.jpeg",
+    "02 - Areas/03 - Cooking/Drinks",
+    "02 - Areas/03 - Cooking/Untitled.md",
+    "04 - Permanent/01 - Linux/FOSS App Migration Guide.md",
+    "04 - Permanent/Computing Setup.md",
+    "04 - Permanent/04 - Computing/Web Bookmarks.md",
+    "04 - Permanent/05 - Rochester/Rochester NY Place Subscriptions.md",
+    "04 - Permanent/02 - HomeLab/NAS Applications.md",
+    "04 - Permanent/05 - Rochester",
+    "04 - Permanent/01 - Linux/Linux Applications.md",
+    "04 - Permanent/04 - Computing/iOS Apps.md",
+    "04 - Permanent/04 - Computing",
+    "03 - Resources/04 - HomeLab/Home Assistant.md",
+    "03 - Resources/04 - HomeLab",
+    "Pasted image 20240424104727.png"
+  ]
+}
